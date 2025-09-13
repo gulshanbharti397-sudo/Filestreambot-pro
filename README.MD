@@ -94,7 +94,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/Code-X-Mania/Filestreambot-pro
+git clone https:https://github.com/prxpostern/Filestreambot-pro
 cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
